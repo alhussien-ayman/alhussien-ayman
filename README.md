@@ -25,22 +25,22 @@ I enjoy building efficient applications and exploring new technologies.
 - **LinkedIn:** https://www.linkedin.com/in/alhussien-ayman-488336249
 
 ---
-
-## 📈 GitHub Stats
-
 <div align="center">
+
+<table>
+<tr>
+<td>
 
 ![Alhussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhussien-ayman&show_icons=true&theme=radical)
 
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
+</td>
+<td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=radical)
+
+</td>
+</tr>
+</table>
 
 </div>
 
