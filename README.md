@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%2C+I'm+Alhussien+Ayman;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=320&lines=Hello,+I'm+Alhussien+Ayman;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-![Code Banner](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
 
 </div>
 
@@ -27,21 +27,7 @@ I enjoy building efficient applications and exploring new technologies.
 ---
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-![Alhussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhussien-ayman&show_icons=true&theme=radical)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alhussien-ayman&show_icons=true&theme=radical&border_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=radical&border_color=00000000" />
 
 </div>
-
----
