@@ -35,9 +35,9 @@ I enjoy building efficient applications and exploring new technologies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alhussien-ayman&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alhussien-ayman&theme=tokyonight" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhussien-ayman&layout=compact&theme=tokyonight" />
 
 
 
